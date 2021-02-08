@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm David Martínez Moya</h1>
-- 📫 How to reach me **martinezmoyadavid@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/botdv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="botdv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/botdv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="botdv" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4721625" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4721625" height="30" width="40" /></a>
+<a href="https://medium.com/@botdv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@botdv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
