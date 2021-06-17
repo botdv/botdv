@@ -4,8 +4,8 @@
 
 <p align="center">
   <code>
-    <a href="https://antfu.me">LinkedIn</a> |
-    <a href="https://antfu.me/posts">GitLab</a> |
-    <a href="https://antfu.me/projects">Twitter</a>
+    <a href="https://www.linkedin.com/in/botdv/">LinkedIn</a> |
+    <a href="https://gitlab.com/botdv">GitLab</a> |
+    <a href="https://twitter.com/botdv_">Twitter</a>
   </code>
 </p>
